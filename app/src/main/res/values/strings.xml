@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="str_firebase_authentication">Firebase Authentication</string>
+
+    <!--Login Screen Strings-->
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_login">Login</string>
+    <string name="login_login_using">Login Using:</string>
+    <string name="login_signup">Sign Up</string>
+
+    <!--Sign Up Screen Strings-->
+    <string name="sign_up_full_name">Full Name</string>
+
+    <string name="toast_sign_in_successful">Sign In Successful</string>
+    <string name="str_enter_credentials">Please enter username and password</string>
+    <string name="str_authentication_failed">Authentication failed</string>
+    <string name="str_registration_successful">Registration successful</string>
+    <string name="sign_in">Logging in</string>
+    <string name="str_welcome">"Welcome "</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">**Replace this with your facebook app ID**</string>
+    <string name="str_twitter_key">**Replace this with your facebook Twitter key**</string>
+    <string name="str_twitter_secret">**Replace this with your facebook Twitter secret**</string>
+</resources>
